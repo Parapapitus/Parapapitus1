@@ -1,2 +1,3 @@
 # Parapapitus1
-Primera prova
+Primera prova a GitHub
+M'agrada menjar bé i fer un bon cafè
